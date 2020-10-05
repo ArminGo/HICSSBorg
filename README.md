@@ -1,4 +1,4 @@
-# HICSS_Borg
+# HICSSBorg
 This is the simulation code for a direct policy search algorithm for the operation and installation of citizen energy communities.
 
 To run this code, a version of the Borg MOEA is required: http://borgmoea.org/
